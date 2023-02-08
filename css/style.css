@@ -1,0 +1,59 @@
+/* CSS for ctec-127-lab-5.php */
+
+label {
+    display: inline-block;
+    width: 180px;
+    margin-top: 10px;
+}
+
+input[type=submit] {
+    background: #336699;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    font-size: 1em;
+}
+
+input[type=text] {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+select {
+    height: 28px;
+    margin-top: 10px;
+}
+
+h3 {
+    color: #fff;
+}
+
+table {
+    border: 2px solid #336699;
+    width: 100%;
+    background-color: #fff;
+}
+
+td {
+    padding: 5px;
+    border: 2px solid #336699;
+    border-collapse: collapse;
+}
+
+.header > h1 {
+    padding: 20px;
+    background-color: #336699;
+    color: #ffffff;
+}
+
+.border {
+    border: 3px solid #336699 !important;
+    padding: 20px;
+}
+
+.calc-box {
+    background-color: #336699;
+}
